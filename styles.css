@@ -1,0 +1,55 @@
+body {
+  font-family: Calibri;
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+#img-div {
+  background-color: white;
+  margin: 0 auto;
+  padding 100%;
+}
+
+figcaption {
+  line-height: 50px;
+  font-size: 1.1em;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#tribute-info {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto 50px auto;
+}
+
+ul {
+  text-align: justify;
+  font-size: 1.2em;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+blockquote {
+  text-align: justify;
+}
+
+@media  (max-width: 1000px) {
+  #tribute-info {
+    width: 70%;
+  }
+}
+
+@media (max-width: 500px) {
+  #tribute-info {
+    width: 100%;
+  }
+}
+
