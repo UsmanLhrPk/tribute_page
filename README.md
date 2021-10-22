@@ -1,2 +1,2 @@
 # Tribute Page
-[Visit](https://usmanlhrpk.github.io/tribute-page/tribute_page.html)
+[Visit](https://usmanlhrpk.github.io/tribute_page/tribute_page.html)
